@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "username": "ram",
+    "budget": 10000,
+    "pending": 10000,
+    "domain": "IT",
+    "revisedAmount": 0
+  },
+  {
+    "id": 2,
+    "username": "sita",
+    "budget": 8000,
+    "pending": 8000,
+    "domain": "Finance",
+    "revisedAmount": 0
+  }
+]

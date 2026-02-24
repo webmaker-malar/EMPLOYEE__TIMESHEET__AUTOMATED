@@ -1,0 +1,30 @@
+[
+  {
+    "id": "0c22524c-6855-457e-8465-a163a64c421a",
+    "name": "Ramesh",
+    "budget": 100000,
+    "remaining": 100000,
+    "domain": "Sales"
+  },
+  {
+    "id": "1882ec78-0f0b-475f-8cfb-62906d18195a",
+    "name": "Kamali",
+    "budget": 45000,
+    "remaining": 44780,
+    "domain": "Marketing"
+  },
+  {
+    "id": "bba6625a-16c4-4aed-bfdc-defeade489a2",
+    "name": "Ranjith",
+    "budget": 78000,
+    "remaining": 77000,
+    "domain": "HR"
+  },
+  {
+    "id": "1d9f84e2-9c69-4f19-9fca-488f55e5f426",
+    "name": "Manasa",
+    "budget": 90000,
+    "remaining": 90000,
+    "domain": "IT"
+  }
+]

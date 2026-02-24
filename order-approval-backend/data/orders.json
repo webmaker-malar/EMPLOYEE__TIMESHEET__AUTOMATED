@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "username": "Logeshwari",
+    "itemName": "Laptop",
+    "cost": 3000,
+    "status": "approved"
+  },
+  {
+    "id": 2,
+    "username": "ram",
+    "itemName": "Watch",
+    "cost": 200,
+    "status": "approved"
+  },
+  {
+    "id": 3,
+    "username": "Mathimalar",
+    "itemName": "CHOCOLATE",
+    "cost": 100,
+    "status": "approved"
+  },
+  {
+    "id": 4,
+    "username": "ram",
+    "itemName": "flower",
+    "cost": 1200,
+    "status": "forwarded"
+  },
+  {
+    "id": 5,
+    "username": "Mathimalar",
+    "itemName": "laptop",
+    "cost": 1000,
+    "status": "approved"
+  },
+  {
+    "id": 6,
+    "username": "ram",
+    "itemName": "gold",
+    "cost": 120,
+    "status": "approved"
+  },
+  {
+    "id": 7,
+    "username": "Mathimalar",
+    "itemName": "flower",
+    "cost": 12,
+    "status": "forwarded"
+  },
+  {
+    "id": 8,
+    "username": "samiksha",
+    "itemName": "hat",
+    "cost": 123,
+    "status": "forwarded"
+  }
+]

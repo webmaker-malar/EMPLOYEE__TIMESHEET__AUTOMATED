@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "username": "ram",
+    "budget": 10000,
+    "pending": 9680,
+    "domain": "IT",
+    "revisedAmount": 0
+  },
+  {
+    "id": 2,
+    "username": "sita",
+    "budget": 8000,
+    "pending": 11000,
+    "domain": "Finance",
+    "revisedAmount": 2000
+  },
+  {
+    "id": 3,
+    "username": "Mathimalar",
+    "budget": 13000,
+    "pending": 11900,
+    "domain": "IT",
+    "revisedAmount": 0
+  },
+  {
+    "id": "95531d4d-757b-4928-833f-f3783aef8672",
+    "username": "Lekha",
+    "budget": 20000,
+    "pending": 20000,
+    "domain": "Sales",
+    "revisedAmount": 0
+  },
+  {
+    "id": "5b93cc87-80e8-4485-8241-fc7474c50277",
+    "username": "samiksha",
+    "budget": 15000,
+    "pending": 15000,
+    "domain": "Marketing",
+    "revisedAmount": 0
+  },
+  {
+    "id": "dd557185-9c05-495a-b1d5-886cb8860e4e",
+    "username": "Logeshwari",
+    "budget": 13000,
+    "pending": 10000,
+    "domain": "IT",
+    "revisedAmount": 0
+  },
+  {
+    "id": "7042757e-f822-4dc3-8f51-0ecbbd1d200c",
+    "username": "Bhava",
+    "budget": 18000,
+    "pending": 18000,
+    "domain": "Marketing",
+    "revisedAmount": 0
+  },
+  {
+    "id": "ce4c810a-af38-4592-aa4d-b3fd3145db87",
+    "username": "Barath",
+    "budget": 21000,
+    "pending": 21000,
+    "domain": "Marketing",
+    "revisedAmount": 0
+  },
+  {
+    "id": "7cda8cfa-a90f-4e4e-b628-04afdd27302d",
+    "username": "Sharath",
+    "budget": 14000,
+    "pending": 14000,
+    "domain": "Sales",
+    "revisedAmount": 0
+  },
+  {
+    "id": "e80e4b5c-3873-427b-958b-45ab02ba34fa",
+    "username": "Sakthivel",
+    "budget": 23000,
+    "pending": 23000,
+    "domain": "IT",
+    "revisedAmount": 0
+  },
+  {
+    "id": "f8067946-e7da-40a5-96e2-d4c01448b40c",
+    "username": "Dharan",
+    "budget": 19500,
+    "pending": 19500,
+    "domain": "HR",
+    "revisedAmount": 0
+  },
+  {
+    "id": "cd3e341d-1c76-4e4b-87f4-4e65221e8478",
+    "username": "KANAGA",
+    "budget": 100000,
+    "pending": 100000,
+    "domain": "Marketing",
+    "revisedAmount": 0
+  }
+]
